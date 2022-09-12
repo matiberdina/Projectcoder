@@ -1,3 +1,4 @@
 # Projectcoder
 proyecto desarrollo de aplicaciones
-https://github.com/matiberdina/Projectcoder/blob/master/assets/lista-optimizada.PNG
+![alt text](https://raw.githubusercontent.com/matiberdina/Projectcoder/blob/master/assets/lista-optimizada.PNG)
+
